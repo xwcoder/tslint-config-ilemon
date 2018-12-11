@@ -1,0 +1,26 @@
+{
+  "name": "tslint-config-ilemon",
+  "version": "0.1.0",
+  "description": "tslint shareable config, tslint-config-ilemon",
+  "main": "./index.js",
+  "scripts": {},
+  "author": {
+    "name": "creep",
+    "email": "creep.wei@gmail.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "license": "ISC",
+  "devDependencies": {
+    "tslint": "^5.11.0",
+    "tslint-react": "^3.6.0",
+    "typescript": "^3.2.2"
+  },
+  "peerDependencies": {
+    "tslint": ">=5.11.0",
+    "tslint-react": ">=3.6.0",
+    "typescript": ">=3.2.2"
+  }
+}

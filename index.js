@@ -11,6 +11,8 @@ module.exports = {
     'no-console': {
       severity: WARN
     },
+    'object-literal-sort-keys': false,
+    'ordered-imports': false,
     'interface-name': false,
     'member-ordering': {
       options: {

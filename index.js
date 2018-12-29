@@ -2,7 +2,7 @@ const { OFF, ERROR, WARN } = require('./constants')
 
 module.exports = {
   defaultSeverity: 'error',
-  extends: ['tslint:recommended'],
+  extends: ['tslint:recommended', 'tslint-sonarts'],
   rules: {
     semicolon: [true, 'never'],
     quotemark: [true, 'single', 'jsx-double', 'avoid-escape', 'avoid-template'],

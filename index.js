@@ -21,6 +21,7 @@ module.exports = {
     },
     'no-conditional-assignment': {
       severity: WARN
-    }
+    },
+    'no-commented-code': OFF
   }
 }

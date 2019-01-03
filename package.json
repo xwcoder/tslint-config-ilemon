@@ -1,6 +1,6 @@
 {
   "name": "tslint-config-ilemon",
-  "version": "0.1.4",
+  "version": "0.1.5",
   "description": "tslint shareable config, tslint-config-ilemon",
   "main": "./index.js",
   "scripts": {},

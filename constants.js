@@ -1,5 +1,5 @@
 module.exports = {
-  OFF: 'off',
+  OFF: false,
   WARN: 'warning',
   ERROR: 'error'
 }
